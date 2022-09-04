@@ -1,0 +1,22 @@
+td{
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bolder;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+
+search{
+    float: right;
+    background-color: cornflowerblue;
+  }
+
+/* <?php include("get_details.php");?>
+		<?php foreach($details as $theDetails){  ?> 
+            <?php echo $theDetails['acc_no']?>
+            <?php echo $theDetails['first_name']?>
+            <?php echo $theDetails['last_name']?>
+            <?php echo $theDetails['phone_no']?>
+            <?php echo $theDetails['address']?>
+            */
